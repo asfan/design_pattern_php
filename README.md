@@ -1,10 +1,12 @@
+PHP Design Pattern
+===
 
-###PHP Design Pattern
-
+description
+---
 some demos for DP coding
 
-####check table
-
+check table
+---
 | name | complex level | status |
 |:---:| :---: | :---: |
-|sigleton| * | $$\times$$ |
+|sigleton| * | X |
